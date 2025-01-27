@@ -13,9 +13,17 @@
             "password": "1234"
         }
     ],
-    "balance": {
-        "amount" : 500
-    },
+    "balance": [
+        {
+            "id": 1,
+            "amount": 500
+          
+        },
+        {
+            "id": 2,
+            "amount": 500
+        }
+    ],
     "transaction": [
         
             {
