@@ -2,15 +2,38 @@
     "users": [
         {
             "id": 1,
-            "name":"Rahul",
+            "name": "Rahul",
             "username": "rahul@gmail.com",
             "password": "1234"
         },
         {
             "id": 2,
-            "name":"Rohit",
+            "name": "Rohit",
             "username": "rohit@gmail.com",
             "password": "1234"
+        }
+    ],
+    "balance" : 500,
+    "transaction": [
+        {
+            {
+                "id": 1,
+                "amount": 200,
+                "time": "27 Jan 2025 12:05 PM"
+
+            },
+            {
+                "id": 2,
+                "amount": 200,
+                "time": "27 Jan 2025 02:15 PM"
+
+            },
+            {
+                "id": 3,
+                "amount": 100,
+                "time": "27 Jan 2025 03:25 PM"
+
+            }
         }
     ]
 }
