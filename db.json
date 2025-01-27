@@ -15,7 +15,7 @@
     ],
     "balance" : 500,
     "transaction": [
-        {
+        
             {
                 "id": 1,
                 "amount": 200,
@@ -34,6 +34,6 @@
                 "time": "27 Jan 2025 03:25 PM"
 
             }
-        }
+        
     ]
 }
