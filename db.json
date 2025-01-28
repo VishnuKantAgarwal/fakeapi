@@ -26,18 +26,39 @@
     "transaction": [
         {
             "id": 1,
-            "amount": 200,
-            "time": "27 Jan 2025 12:05 PM"
+            "list": [
+                {
+                    "amount": 200,
+                    "time": "27 Jan 2025 12:05 PM"
+                },
+                {
+                    "amount": 200,
+                    "time": "27 Jan 2025 02:15 PM"
+                },
+                {
+                    "amount": 100,
+                    "time": "27 Jan 2025 03:25 PM"
+                }
+            ]
+            
         },
         {
             "id": 2,
-            "amount": 200,
-            "time": "27 Jan 2025 02:15 PM"
-        },
-        {
-            "id": 3,
-            "amount": 100,
-            "time": "27 Jan 2025 03:25 PM"
+            "list": [
+                {
+                    "amount": 200,
+                    "time": "27 Jan 2025 12:05 PM"
+                },
+                {
+                    "amount": 200,
+                    "time": "27 Jan 2025 02:15 PM"
+                },
+                {
+                    "amount": 100,
+                    "time": "27 Jan 2025 03:25 PM"
+                }
+            ]
+         
         }
     ]
 }
